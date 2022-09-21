@@ -8,7 +8,6 @@ class Example12 {
         a = inputValue.nextInt();
 
         System.out.println("Enter second number");
-        inputValue = new Scanner(System.in);
         b = inputValue.nextInt();
 
 
